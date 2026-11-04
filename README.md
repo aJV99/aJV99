@@ -1,8 +1,8 @@
-# Hi, I'm Abbas
+## Hi, I'm Abbas 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&vCenter=true&width=520&lines=Built+the+platform+behind+a+robot+fleet;Ships+AI+features+in+a+VR+training+app;Took+a+trading+platform+live%2C+solo" alt="Built the platform behind a robot fleet. Ships AI features in a VR training app. Took a trading platform live, solo." />
+It all started at 13 with [Academics For You](https://ajv99.github.io/AcademicsForYou/), a study site I built for other kids. I've been building things people actually use ever since.
 
-Full-stack engineer in London. I like owning a product end to end: the database, the UI and the infrastructure behind it.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&vCenter=true&width=520&lines=Built+the+platform+behind+a+robot+fleet;Ships+AI+features+in+a+VR+training+app;Took+a+trading+platform+live%2C+solo;Won+IBM's+AI+Designathon;Speaks+TypeScript%2C+Python+and+Gujarati" alt="Built the platform behind a robot fleet. Ships AI features in a VR training app. Took a trading platform live, solo. Won IBM's AI Designathon. Speaks TypeScript, Python and Gujarati." />
 
 **What I've built**
 
