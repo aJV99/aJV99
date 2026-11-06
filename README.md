@@ -11,7 +11,7 @@ It all started at 13 with [Academics For You](https://ajv99.github.io/AcademicsF
 - **CommodiTrade**: a trading and contracts platform for a commodity trading firm. Built solo, live since August 2026.
 - **IBM iX**: DevOps and full-stack work on proofs of concept. Won IBM's AI Designathon.
 
-**Now:** teaching Claude to run lab robots without breaking anything 🧪, and quietly building something for people who are impossible to buy for 🎁
+**Now:** [teaching Claude to run lab robots without breaking anything](https://github.com/aJV99/lab-agent-safety) 🧪, and quietly building something for people who are impossible to buy for 🎁
 
 Most of that lives in private or company repos, so what you see here is mainly side projects and old university projects.
 
